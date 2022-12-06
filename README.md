@@ -1,2 +1,8 @@
-# PW1-2022-
-A SHOPPING PORTAL USING SIMPLE HTML CSS AND JAVA SCRIPT
+# Ecommerce-Project
+A Ecommerce Project using simple Html, Css and Js.
+
+
+
+Click below link to view this project 
+
+https://rakesh-99.github.io/FrontEnd-Ecommerce-Project/
